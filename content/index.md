@@ -12,3 +12,6 @@ structures in C++!
 - [Guide to Clojure (pdf)](assets/handouts/guide-to-clojure.pdf)
 - [Release Repository](https://github.com/mattoxb/cs296-fa26-release.git)
 
+## QR Code
+
+![[assets/images/qr-code.png]]
